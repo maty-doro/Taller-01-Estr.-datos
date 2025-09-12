@@ -53,7 +53,7 @@ void Alumno::setFechaIngreso(string fechaIngreso) {
 }
 
 
-void Alumno::mostrarInfo() const {
+void Alumno::mostrarInfo(){
     cout << "ID: " << id << endl;
     cout << "Nombre: " << nombre << " " << apellido << endl;
     cout << "Carrera: " << carrera << endl;
