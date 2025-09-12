@@ -1,6 +1,13 @@
 #include "Alumno.h"
 #include <iostream>
 using namespace std;
+Alumno::Alumno() {
+    id = 0;
+    nombre = "";
+    apellido = "";
+    carrera = "";
+    fechaIngreso = "";
+}
 
 Alumno::Alumno(int id, string nombre, string apellido, string carrera, string fechaIngreso) {
     this->id = id;
