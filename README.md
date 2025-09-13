@@ -1,2 +1,4 @@
 En este taller se demuestra de forma logica un menu de gestion de alumnos y cursos junto con sus respectivos detalles ya sean notas o restricciones de carrera.
 debido a problemas de tiempo creo que es mejor admitir que una parte del codigo fue hecho por ia debido a falta de tiempo y de experiencia en este lenguaje, recién esta semana habia entendido bien el uso de listas enlazadas, queria usar una misma para todas las clases pero el percance que tuve en la biblioteca no pude desarrollar correctamente este taller, ahora espero comprenda, mi pc no funciona bien y cuando mi hermano me trajo otro el internet dejo de funcionar, vivo en el peñon por lo que la señal a veces se estropea por semanas y justo tocó esta, nuevamente una disculpa  
+
+Nombre: Matias Vidal Paralelo: C2
